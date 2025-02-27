@@ -1,7 +1,7 @@
 ## 👋 Olá. Sou André David 
 - Estudante de Engenharia de Software na UniCesumar;
 - Estudante de Análise e Desenvolvimento de Sistemas na UNAMA;
-- Aprendendo Lógica de Programação, Front-End e Back-End;
+- Aprendendo Lógica de Programação, Front-End e Back-End
 
 ## 👨‍💻 Meu Discord:
 <div align="center">
