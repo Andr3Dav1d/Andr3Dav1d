@@ -4,9 +4,9 @@
 - Aprendendo Lógica de Programação, Front-End e Back-End;
 
 ## 👨‍💻 Meu Discord:
-<div style='display:flex; justify-content: center;'>
+<div align="center">
 	<a href="https://discord.com/users1025007887535329290">
-		<img src="https://lanyard.cnrad.dev/api/1025007887535329290" alt="Discord: andre.david">
+	<img src="https://lanyard.cnrad.dev/api/1025007887535329290" alt="Discord: andre.david">
 	</a>
 </div>
 
