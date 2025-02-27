@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Olá. Sou André David 
+- Estudante de Engenharia de Software na UniCesumar;
+- Estudante de Análise e Desenvolvimento de Sistemas na UNAMA;
+- Aprendendo Lógica de Programação, Front-End e Back-End;
 
-<!--
-**Andre-David/Andre-David** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Meu Discord:
+<div style='display:flex; justify-content: center;'>
+	<a href="https://discord.com/users1025007887535329290">
+		<img src="https://lanyard.cnrad.dev/api/1025007887535329290" alt="Discord: andre.david">
+	</a>
+</div>
 
-Here are some ideas to get you started:
+## 📲 Conexões:
+- Instagram: [@andre.david07](https://instagram.com/andre.david07)
+- LinkedIn: [in/andrédavid](https://linkedin.com/in/andrédavid)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+> ~~Novos repositórios em breve :)~~
+
+
