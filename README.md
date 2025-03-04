@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Meu Discord:
 <div align="center">
-	<a href="https://discord.com/users1025007887535329290">
+	<a href="https://discord.com/users/1025007887535329290">
 	<img src="https://lanyard.cnrad.dev/api/1025007887535329290" alt="Discord: andre.david">
 	</a>
 </div>
