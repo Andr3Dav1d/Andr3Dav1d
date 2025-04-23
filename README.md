@@ -1,7 +1,7 @@
+
 ## 👋 Olá. Sou André David 
-- Estudante de Engenharia de Software na UniCesumar;
-- Estudante de Análise e Desenvolvimento de Sistemas na UNAMA;
-- Aprendendo Lógica de Programação, Front-End e Back-End
+- Acadêmico de Engenharia de Software e ADS
+- Entusiasta em Ciência de Dados e Desenvolvimento Back-end
 
 ## 👨‍💻 Meu Discord:
 <div align="center">
@@ -12,9 +12,7 @@
 
 ## 📲 Conexões:
 - Instagram: [@andre.david07](https://instagram.com/andre.david07)
-- LinkedIn: [in/andrédavid](https://linkedin.com/in/andrédavid)
+- LinkedIn: [in/andrédavid](https://linkedin.com/in/andr3dav1d)
 
 ---
 > ~~Novos repositórios em breve :)~~
-
-
