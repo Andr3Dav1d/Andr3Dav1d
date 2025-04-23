@@ -11,7 +11,7 @@
 </div>
 
 ## 📲 Conexões:
-- Instagram: [@andre.david07](https://instagram.com/andr3dav1d)
+- Instagram: [@andr3dav1d](https://instagram.com/andr3dav1d)
 - LinkedIn: [in/andr3dav1d](https://linkedin.com/in/andr3dav1d)
 
 ---
