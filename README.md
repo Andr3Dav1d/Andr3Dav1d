@@ -11,8 +11,8 @@
 </div>
 
 ## 📲 Conexões:
-- Instagram: [@andre.david07](https://instagram.com/andre.david07)
-- LinkedIn: [in/andrédavid](https://linkedin.com/in/andr3dav1d)
+- Instagram: [@andre.david07](https://instagram.com/andr3dav1d)
+- LinkedIn: [in/andr3dav1d](https://linkedin.com/in/andr3dav1d)
 
 ---
 > ~~Novos repositórios em breve :)~~
