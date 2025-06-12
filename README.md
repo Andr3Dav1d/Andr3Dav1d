@@ -1,7 +1,7 @@
 
 ## 👋 Olá. Sou André David 
 - Acadêmico de Análise e Desenvolvimento de Sistemas
-- Entusiasta em Ciência de Dados e Desenvolvimento Back-end
+- Entusiasta em Análise de Dados e Desenvolvimento Back-end
 
 ## 👨‍💻 Meu Discord:
 <div align="center">
