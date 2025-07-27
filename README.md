@@ -13,6 +13,3 @@
 ## 📲 Conexões:
 - Instagram: [@andr3dav1d](https://instagram.com/andr3dav1d)
 - LinkedIn: [in/andr3dav1d](https://linkedin.com/in/andr3dav1d)
-
----
-> ~~Novos repositórios em breve :)~~
