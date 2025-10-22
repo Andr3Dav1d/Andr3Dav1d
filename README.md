@@ -8,23 +8,29 @@
 
 <table align="center" border="1">
   <tr>
+	<td align="center">
+      <img src="https://skillicons.dev/icons?i=html" height="25" alt="html logo" />
+    </td>
+	<td align="center">
+      <img src="https://skillicons.dev/icons?i=css" height="25" alt="css logo" />
+    </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" height="25" alt="typescript logo" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=java" height="25" alt="java logo" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="nodejs logo" />
-    </td>
+	</td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=py" height="25" alt="python logo" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" height="25" alt="mysql logo" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=go" height="25" alt="go logo" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=linux" height="25" alt="linux logo" />
@@ -59,8 +65,8 @@
 
 ### 🎯 My Goals 
 
-- Master *Java/Golang* for **backend** projects
-- Improve my knowledge of *React/TypeScript* for **frontend** projects
+- Master *Java/TypeScript* for **backend** projects
+- Improve my knowledge of *React* for **frontend** projects
 - Create **cross-platform applications** with *Java/React Native (Still in mind)* 
 - Contribute to **open-source** projects
 - Reach the level of *senior* programmer
