@@ -80,13 +80,8 @@
     <td colspan="2">
       <img src="https://github-readme-stats.vercel.app/api?username=Andr3Dav1d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" alt="stats graph" style="max-width: auto; height: 100%;" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andr3Dav1d&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="160" alt="languages graph" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=Andr3Dav1d&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andr3Dav1d&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" style="max-width: auto; height: 100%;" alt="languages graph" />
     </td>
   </tr>
 </table>
