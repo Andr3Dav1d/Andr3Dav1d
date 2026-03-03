@@ -78,10 +78,10 @@
 <table border="1">
   <tr align="center">
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=Andr3Dav1d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" alt="stats graph" style="max-width: auto; height: 100%;" />
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/andr3dav1d?cardType=level&theme=blue-green&fontFamily=IBM%20Plex%20Sans&preferLogin=false&order=1" alt="stats graph" style="max-width: auto; height: 100%;" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andr3Dav1d&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" style="max-width: auto; height: 100%;" alt="languages graph" />
+      <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Andr3Dav1d&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" style="max-width: auto; height: 100%;" alt="languages graph" />
     </td>
   </tr>
 </table>
