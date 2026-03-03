@@ -1,7 +1,7 @@
 ##  👋 Hello, I am André David
 
 - *Systems Analysis and Development* student
-- **Full-Stack Development** enthusiast, with a focus on **backend**
+- **Back-end & Infrastructure** developer, with focus on **DevOps and automation**
 ---
 
 ### 💻 Technologies
@@ -68,11 +68,11 @@
 
 ### 🎯 My Goals 
 
-- Master *Java/TypeScript* for **backend** projects
-- Improve my knowledge of *React* for **frontend** projects
-- Create **cross-platform applications** with *Java/React Native (Still in mind)* 
+- Deepen knowledge in **infrastructure and DevOps** with *Docker, Traefik and Portainer*
+- Expand skills in **process automation** with *N8N and Power Automate*
+- Master *Java and Golang* for **back-end and systems** projects
 - Contribute to **open-source** projects
-- Reach the level of *senior* programmer
+- Reach the level of *senior* engineer
 
 ---
 
