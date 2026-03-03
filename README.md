@@ -8,32 +8,35 @@
 
 <table align="center" border="1">
   <tr>
-	<td align="center">
-      <img src="https://skillicons.dev/icons?i=html" height="25" alt="html logo" />
-    </td>
-	<td align="center">
-      <img src="https://skillicons.dev/icons?i=css" height="25" alt="css logo" />
-    </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" height="25" alt="typescript logo" />
+      <img src="https://skillicons.dev/icons?i=py" height="25" alt="python logo" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=java" height="25" alt="java logo" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="nodejs logo" />
-	</td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=py" height="25" alt="python logo" />
+      <img src="https://skillicons.dev/icons?i=go" height="25" alt="go logo" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" height="25" alt="mysql logo" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="25" alt="postgres logo" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="nodejs logo" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" height="25" alt="typescript logo" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=linux" height="25" alt="linux logo" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" height="25" alt="docker logo" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=discordjs" height="25" alt="discordjs logo" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=azure" height="25" alt="azure logo" />
     </td>
   </tr>
 </table>
