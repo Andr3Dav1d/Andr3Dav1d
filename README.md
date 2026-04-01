@@ -69,8 +69,8 @@
 ### 🎯 My Goals 
 
 - Deepen knowledge in **infrastructure and DevOps** with *Docker, Traefik and Portainer*
-- Expand skills in **process automation** with *N8N and Power Automate*
-- Master *Java and Golang* for **back-end and systems** projects
+- Expand skills in **process automation** with *n8n*
+- Learn and Master *Java* for **back-end and systems** projects
 - Contribute to **open-source** projects
 - Reach the level of *senior* engineer
 
