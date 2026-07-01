@@ -38,6 +38,9 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=azure" height="25" alt="azure logo" />
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws" height="25" alt="aws logo" />
+    </td>
   </tr>
 </table>
 
